@@ -1,1 +1,1 @@
-# Racunalna_Grafika
+# Računalna grafika labosi
